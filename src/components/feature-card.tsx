@@ -8,7 +8,6 @@ interface Props {
 	content: string;
 	idx: number;
 }
-
 const FeatureCard: FC<Props> = ({ icon, title, content, idx }) => {
 	return (
 		<div

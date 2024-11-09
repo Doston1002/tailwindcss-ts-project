@@ -8,7 +8,6 @@ interface Props {
 	name: string;
 	content: string;
 }
-
 const FeedbackCard: FC<Props> = ({ id, title, name, content }) => {
 	return (
 		<div
