@@ -10,6 +10,7 @@ import {
 	Statistics,
 	Testimonials,
 } from './components';
+
 import { styles } from './util/style';
 
 const App = () => {
